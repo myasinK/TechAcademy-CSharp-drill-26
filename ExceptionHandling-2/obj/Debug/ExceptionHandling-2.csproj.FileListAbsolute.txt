@@ -1,0 +1,7 @@
+C:\Users\Yasin\TechAcademy\vs-tour\ExceptionHandling-2\ExceptionHandling-2\bin\Debug\ExceptionHandling-2.exe.config
+C:\Users\Yasin\TechAcademy\vs-tour\ExceptionHandling-2\ExceptionHandling-2\bin\Debug\ExceptionHandling-2.exe
+C:\Users\Yasin\TechAcademy\vs-tour\ExceptionHandling-2\ExceptionHandling-2\bin\Debug\ExceptionHandling-2.pdb
+C:\Users\Yasin\TechAcademy\vs-tour\ExceptionHandling-2\ExceptionHandling-2\obj\Debug\ExceptionHandling-2.csprojAssemblyReference.cache
+C:\Users\Yasin\TechAcademy\vs-tour\ExceptionHandling-2\ExceptionHandling-2\obj\Debug\ExceptionHandling-2.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\TechAcademy\vs-tour\ExceptionHandling-2\ExceptionHandling-2\obj\Debug\ExceptionHandling-2.exe
+C:\Users\Yasin\TechAcademy\vs-tour\ExceptionHandling-2\ExceptionHandling-2\obj\Debug\ExceptionHandling-2.pdb
